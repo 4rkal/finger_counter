@@ -9,6 +9,7 @@ step 1
 ```pip install requirements.txt```
 
 step 2 
+
 ```python finger_counter.py```
 
 
