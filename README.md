@@ -5,6 +5,10 @@ That is made by checking if one landmark is hiding the other one here is the gra
 ![image](https://user-images.githubusercontent.com/89646772/131137343-1eae4e42-63ba-4244-a295-0eda387859a9.png)
 # Set up
 step 1
+
 ```pip install requirements.txt```
+
+step 2 
+```python finger_counter.py```
 
 
